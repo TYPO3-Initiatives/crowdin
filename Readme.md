@@ -13,3 +13,7 @@ The [projects tab](https://github.com/TYPO3-Initiatives/crowdin/projects) lists 
 - [Working with Crowdin](https://github.com/TYPO3-Initiatives/crowdin/projects/3)
 - [Attract more people](https://github.com/TYPO3-Initiatives/crowdin/projects/4)
 - [How to make good translations](https://github.com/TYPO3-Initiatives/crowdin/projects/5)
+
+## You are extension author?
+
+If you want to use Crowdin for your extension, please follow this guide: https://github.com/TYPO3-Initiatives/crowdin/wiki/How-to-bring-your-extension-to-Crowdin
